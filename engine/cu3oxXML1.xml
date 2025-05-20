@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cu3ox>
+<Settings>
+  <imageWidth>200</imageWidth>
+  <imageHeight>250</imageHeight>
+  <segments>5</segments>
+  <tweenTime>1.5</tweenTime>
+  <tweenDelay>0.5</tweenDelay>
+  <tweenType>easeInOutBack</tweenType>
+  <zDistance>80</zDistance>
+  <expand>40</expand>
+  <innerColor>0x111111</innerColor>
+  <textBackground>0x333333</textBackground>
+  <startBackground>0xcccccc</startBackground>
+  <noLogo>0</noLogo>
+  <shadowDarkness>100</shadowDarkness>
+  <textDistance>3</textDistance>
+  <autoplay>3</autoplay>
+  <rDirection>right</rDirection>
+  <borderRadius>16</borderRadius>
+  <descriptionWidth>170</descriptionWidth>
+  <descriptionHeight>60</descriptionHeight>
+  <descriptionOffset>180</descriptionOffset>
+  <descriptionType>upDown</descriptionType>
+  <logoText>cu3ox.com</logoText>
+  <logoLink>http://cu3ox.com</logoLink>
+  <noShadow>1</noShadow>
+  <showControls>true</showControls>
+  <startLogo></startLogo>
+  <loop>1</loop>
+  <sound></sound>
+</Settings>
+<Image Filename="1.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="2.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="7.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="14.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="17.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="123.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+</Cu3ox>
